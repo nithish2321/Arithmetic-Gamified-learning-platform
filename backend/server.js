@@ -1,10 +1,3 @@
-// ============================================================================
-// Speed Math Platform - Backend Server (server.js) - Sree Leela Edition
-// ============================================================================
-// This file contains the complete backend logic for the application.
-// **Update**: Corrected the Gemini model name to fix the 404 error.
-// ============================================================================
-
 // --- 1. DEPENDENCIES ---
 require('dotenv').config();
 const express = require('express');
