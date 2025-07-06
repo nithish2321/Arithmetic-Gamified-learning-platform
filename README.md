@@ -1,5 +1,4 @@
-# 🚀 Speed Math Interface - A "Jarvis-Style" Practice Platform
-
+# 🚀 Arithmetic Gamified learning platform - Speed Math Interface
 Welcome to the Speed Math Interface, a full-stack web application designed to be a futuristic, engaging, and highly personalized platform for practicing and mastering speed mathematics. Inspired by sci-fi interfaces like Iron Man's Jarvis, this application provides a gamified environment with detailed performance tracking and a unique AI companion to guide you on your journey.
 
 This project is built with a React frontend and a Node.js backend, using MongoDB for data persistence.
